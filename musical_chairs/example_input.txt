@@ -1,0 +1,21 @@
+Example 1) (from contest example)
+
+4
+8 2 4 2
+
+3
+
+
+Example 2) (made up)
+
+4
+3 2 1 4
+
+2
+
+Example 3) (made up)
+
+7
+12 15 1 7 3 2 10
+
+6

@@ -1,0 +1,13 @@
+Example 1) (contest)
+
+1
+10
+
+10
+
+Example 2) (contest)
+
+12345
+65432
+
+35882

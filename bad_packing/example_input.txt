@@ -1,0 +1,8 @@
+Example 1) (contest)
+
+3 6
+3
+5
+3
+
+5
